@@ -10,6 +10,8 @@ The code and the algorithm are for non-comercial use only.
 Copyright 2018, Department of Electronic Information Engineering, Nanchang University.   
 GradCSC - Convolutional sparse coding in Gradient domain  
 
+Gradientfilters_mri.mat is available at: https://pan.baidu.com/s/1f7tlnFeySu1UNjLtzfVasg. 
+
 ## Visual illustration of learned dictionary/filters.
 
 
