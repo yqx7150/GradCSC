@@ -12,13 +12,4 @@ GradCSC - Convolutional sparse coding in Gradient domain
 
 ## Visual illustration of learned dictionary/filters.
 
-<table>
-<tr>
-<td> < img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/>
-</td>
-<td> < img src=figs/fig2.png>
-</td>
-<td> < img src=figs/fig3.png>
-</td>
-</tr>
-</table>
+![](./figs/fig.png)
