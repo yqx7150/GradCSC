@@ -14,7 +14,7 @@ GradCSC - Convolutional sparse coding in Gradient domain
 
 <table>
 <tr>
-<td> < img src=figs/fig1.png>
+<td> < img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg"/>
 </td>
 <td> < img src=figs/fig2.png>
 </td>
