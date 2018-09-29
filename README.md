@@ -12,4 +12,6 @@ GradCSC - Convolutional sparse coding in Gradient domain
 
 ## Visual illustration of learned dictionary/filters.
 
-![](./figs/fig.png)
+
+<div align=center><img width="470" height="150" src="./figs/fig.png"/></div> 
+Left: Learned dictionary by DLMRI. Middle: Learned dictionary by GradDL. Right: Learned filters by GradCSC.
