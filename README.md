@@ -14,11 +14,11 @@ GradCSC - Convolutional sparse coding in Gradient domain
 
 <table>
 <tr>
-<td> < img src=figs/fig1.png/>
+<td> < img src=figs/fig1.png>
 </td>
-<td> < img src=figs/fig2.png/>
+<td> < img src=figs/fig2.png>
 </td>
-<td> < img src=figs/fig3.png/>
+<td> < img src=figs/fig3.png>
 </td>
 </tr>
 </table>
